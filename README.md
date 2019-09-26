@@ -1,4 +1,4 @@
-# .github.io
+# kilzone.github.io
 
 # Отчет по лабораторным работам
 # студент группы [ИДБ-16-05](https://github.com/stankin/design-2018/wiki/list-idb-16-05) Тараненко А.Ф.
