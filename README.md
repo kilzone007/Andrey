@@ -19,3 +19,6 @@
 
 **Мастер является человеком, который использует инструменты. Мастер умеет собирать телефоны в соответствии со схемой сборки.**
 
+* [Текст](https://github.com/kilzone007/kilzone007.github.io/blob/master/PlantUML2(text).txt) и [Картинка](https://github.com/kilzone007/kilzone007.github.io/blob/master/PlantUML2.png) диаграммы прецедентов
+
+![none](https://github.com/kilzone007/kilzone007.github.io/blob/master/PlantUML2.png)
