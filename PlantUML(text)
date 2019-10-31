@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Мастер" as P {
+ Инструменты
+Телефон Сборка (Детали, Схема сборки)
+}
+hide circle
+@enduml
