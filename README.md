@@ -12,7 +12,7 @@
 Мастер при помощи инструментов собирает из материалов телефон по схеме сборки
 
 ## Создание диаграммы классов и диаграммы прецедентов "Сборка телефона" в PLANTUML (программное средство автоматической генерации UML-диаграмм)
-*Сборка телефона*
+_Сборка телефона_
 - [Текст](https://github.com/kilzone007/kilzone007.github.io/blob/master/PlantUML(text).txt) и [Картинка](https://github.com/kilzone007/kilzone007.github.io/blob/master/PlantUML.png) диаграммы классов
 
 ![none](https://github.com/kilzone007/kilzone007.github.io/blob/master/PlantUML.png)
