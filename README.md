@@ -64,9 +64,9 @@
 
 ### Описание участников автоматизируемой деятельности
 
-* [Текст]() и [рисунок]() диаграммы классов
+* [Текст](https://github.com/kilzone007/kilzone007.github.io/blob/master/Laba3(text2).txt) и [Рисунок](https://github.com/kilzone007/kilzone007.github.io/blob/master/Laba3(UML2).png) диаграммы классов
 
-![none]()
+![none](https://github.com/kilzone007/kilzone007.github.io/blob/master/Laba3(UML2).png)
 
 ## Лабораторная 4
 
