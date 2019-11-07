@@ -1,0 +1,19 @@
+@startuml
+actor "Автор" as act
+participant "Черновик" as chern
+actor "Копирайтер" as copyr
+participant "Установленные стандарты" as stand
+database "БД:Статьи" as bd
+actor "Издатель" as izd
+participant "Публикация" as pyb
+act -> chern : Написание черновика статьи
+chern -> act
+chern -> copyr : Передача черновика
+copyr -> stand : Редактирование по стандартам
+stand -> copyr
+copyr -> bd : Создание статьи
+bd -> copyr
+bd -> izd : Отправка статьи
+izd -> stand : Проверка по стандартам
+izd -> pyb : Публикация статьи
+@enduml
