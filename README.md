@@ -24,6 +24,7 @@
 ![none](https://github.com/kilzone007/kilzone007.github.io/blob/master/PlantUML2.png)
 
 ## Лабораторная 2
+
 ### Определение надсистемы (среды функционирования) 
 
 * IDEF0-диаграмма (блок А0): 
