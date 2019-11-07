@@ -42,7 +42,9 @@
 
 ### Описание участников автоматизируемой деятельности
 
+* [Текст](https://github.com/kilzone007/kilzone007.github.io/blob/master/Laba2(text).txt) и [Рисунок](https://github.com/kilzone007/kilzone007.github.io/blob/master/Laba2(UML).png) диаграммы прецедентов 
 
+![none](https://github.com/kilzone007/kilzone007.github.io/blob/master/Laba2(UML).png)
 
 ## Лабораторная 3
 
