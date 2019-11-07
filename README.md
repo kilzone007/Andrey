@@ -28,10 +28,15 @@
 
 * IDEF0-диаграмма (блок А0): 
 
-* IDEF0-диаграмма (блоки A1, A2, A3):
+![none](https://github.com/kilzone007/kilzone007.github.io/blob/master/Laba2(photo1).jpg)
 
-* DFD-диаграмма "Выбор тура" (блок A3-01):
+* IDEF0-диаграмма (блоки A1, A2, A3, A4):
 
+![none](https://github.com/kilzone007/kilzone007.github.io/blob/master/Laba2(photo2).jpg)
+
+* DFD-диаграмма "Подготовить такст к публикации" (блок A3-01):
+
+![none](https://github.com/kilzone007/kilzone007.github.io/blob/master/Laba2(photo3).jpg)
 
 ## Лабораторная 3
 
