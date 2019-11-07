@@ -38,6 +38,8 @@
 
 ![none](https://github.com/kilzone007/kilzone007.github.io/blob/master/Laba2(photo3).jpg)
 
+* [Диаграмма в формате .rsf](https://github.com/kilzone007/kilzone007.github.io/blob/master/LABA2.rsf)
+
 ## Лабораторная 3
 
 ## Лабораторная 4
