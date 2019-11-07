@@ -34,7 +34,7 @@
 
 ![none](https://github.com/kilzone007/kilzone007.github.io/blob/master/Laba2(photo2).jpg)
 
-* DFD-диаграмма "Подготовить такст к публикации" (блок A3-01):
+* DFD-диаграмма "Подготовить такст к публикации" (блок A3-03):
 
 ![none](https://github.com/kilzone007/kilzone007.github.io/blob/master/Laba2(photo3).jpg)
 
@@ -44,9 +44,29 @@
 
 * [Текст](https://github.com/kilzone007/kilzone007.github.io/blob/master/Laba2(text).txt) и [Рисунок](https://github.com/kilzone007/kilzone007.github.io/blob/master/Laba2(UML).png) диаграммы прецедентов 
 
-![none](https://github.com/kilzone007/kilzone007.github.io/blob/master/Laba2(UML).png)
+![none](https://github.com/kilzone007/kilzone007.github.io/blob/master/Laba2(UML).jpg)
 
 ## Лабораторная 3
+
+### Описание хранилищ данных
+
+* DFD-диаграмма "Разместить статью в издании" (блок A4-03)
+
+![none](https://github.com/kilzone007/kilzone007.github.io/blob/master/Laba3(DFD).jpg)
+
+* [Диаграмма формате .rsf](https://github.com/kilzone007/kilzone007.github.io/blob/master/LABA3.rsf)
+
+### Описание взаимодействия участников автоматизируемой деятельности
+
+* [Текст]() и [рисунок]() диаграммы последовательности
+
+![none]()
+
+### Описание участников автоматизируемой деятельности
+
+* [Текст]() и [рисунок]() диаграммы классов
+
+![none]()
 
 ## Лабораторная 4
 
