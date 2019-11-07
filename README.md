@@ -58,9 +58,9 @@
 
 ### Описание взаимодействия участников автоматизируемой деятельности
 
-* [Текст]() и [рисунок]() диаграммы последовательности
+* [Текст](https://github.com/kilzone007/kilzone007.github.io/blob/master/Laba3(text1).txt) и [рисунок](https://github.com/kilzone007/kilzone007.github.io/blob/master/Laba3(UML1).png) диаграммы последовательности
 
-![none]()
+![none](https://github.com/kilzone007/kilzone007.github.io/blob/master/Laba3(UML1).png)
 
 ### Описание участников автоматизируемой деятельности
 
