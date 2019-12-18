@@ -1,0 +1,30 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Modules as "Модули"
+
+class Window as "Экранные формы"
+class MO as "Модуль обработки"
+
+class FT as "Формализация требований"
+class OPA as "Определение подходящих\nалгоритмов"
+class VI as "Внесение информации \nо параметрах"
+class Z as "Заполнение отчета"
+class SFD as "Создание формы документа"
+
+Modules<|-- Window
+Modules<|-- MO
+
+Window<|-- FT
+Window<|-- OPA
+Window<|-- VI
+MO<|-- SFD
+MO<|-- Z
+
+hide members
+hide circle
+hide methods
+@enduml
